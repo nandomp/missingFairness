@@ -16,4 +16,4 @@ To support this claim,
 
 ### Docs
 
-[Preprint submitted to Decision Support Systems Journal](https://arxiv.org/abs/1905.12728)
+[Preprint](https://arxiv.org/abs/1905.12728)
